@@ -18,7 +18,7 @@ defmodule NioGoogleAuthenticator.Mixfile do
 
   defp deps do
     [
-      {:ecto, "~> 3.4"},
+      {:ecto, "~> 3.1"},
       {:pot, "~> 0.9.3"},
       {:ex_doc, ">= 0.0.0", only: :dev}
     ]
